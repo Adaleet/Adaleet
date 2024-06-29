@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Adaleet
   ![NewYork](https://github.com/Adaleet/Adaleet/assets/130295885/a148ebe9-bde4-4347-964d-ef3cab74b73c)
+
+- 👋 Hi, I’m @Adaleet
 - 👀 I’m interested in coding creative, meaningful projects
 - 🌱 I’m currently learning C++, Typescript and fullstack frameworks. 
 - 💞️ I’m open to collaborations!
