@@ -4,10 +4,10 @@
 
 - 👋 Hi, I’m @Adaleet
 - 👀 I’m interested in coding creative, meaningful projects
-- 🌱 I’m currently learning C++, Typescript and fullstack frameworks. 
+- 🌱 I’m currently learning Python, C# / C++, Typescript and fullstack frameworks. 
 - 💞️ I’m open to collaborations!
 - 📫 You can reach me at discord, and at: adalat-@hotmail.se
-- ⚡ Fun fact: I've never visited New York, yet it's my favourite city!
+- ⚡ Fun fact: I've never visited New York, yet it happen to be my favourite city! :) 
 
 <!---
 Adaleet/Adaleet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
