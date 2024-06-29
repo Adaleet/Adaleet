@@ -1,4 +1,6 @@
-           ![NewYork](https://github.com/Adaleet/Adaleet/assets/130295885/a148ebe9-bde4-4347-964d-ef3cab74b73c)
+
+
+![NewYork](https://github.com/Adaleet/Adaleet/assets/130295885/128d8255-ee8f-4157-85ff-f6fb3e3d2773)
 
 - 👋 Hi, I’m @Adaleet
 - 👀 I’m interested in coding creative, meaningful projects
