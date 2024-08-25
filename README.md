@@ -2,7 +2,7 @@
 
 ![NewYork](https://github.com/Adaleet/Adaleet/assets/130295885/128d8255-ee8f-4157-85ff-f6fb3e3d2773)
 
-- 👋 Hi, I’m @Adaleet
+- 👋 #Hi there! Welcome to my Github!
 - 👀 I’m interested in coding creative, meaningful projects
 - 🌱 I’m currently learning Python, C# / C++, Typescript and fullstack frameworks. 
 - 💞️ I’m open to collaborations!
