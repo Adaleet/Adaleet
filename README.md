@@ -4,8 +4,6 @@
 
 - Welcome to my Github!
 - 👀 I’m interested in coding creative, meaningful projects
-- 🌱 I’m currently learning Python, C# / C++, Typescript and fullstack frameworks. 
-- 💞️ I’m open to collaborations!
 - 📫 You can reach me at discord, and at: adalat-@hotmail.se
 - ⚡ Fun fact: I've never visited New York, yet it happen to be my favourite city! :) 
 
