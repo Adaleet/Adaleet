@@ -4,7 +4,7 @@
 
 - Welcome to my Github!
 - 👀 I’m interested in coding creative, meaningful projects
-- 📫 You can reach me at discord, and at: adalat-@hotmail.se
+- 📫 You can reach me at: adalat-@hotmail.se
 - ⚡ Fun fact: I've never visited New York, yet it happen to be my favourite city! :) 
 
 <!---
