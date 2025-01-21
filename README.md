@@ -1,8 +1,17 @@
 # Adalet Adiljan
 
 **Computer Engineering student at KTH**
+## Hi There! 👋
+I'm in my final year of my Bachelor's in Computer Engineering (Graduating 2025).
+I'm passionate about designing scalable software, exploring AI and machine learning, and building solutions that solve real-world problems.
 
-Little facts about me: (..)
+## 📌 Quick Highlights
+Open to Opportunities: Actively seeking thesis project collaborations and summer internships in software development, AI, or machine learning.
+
+## 🎯 Current Focus 
+* Expand my expertise in cloud computing, data analysis and software development.
+* Explore research opportunities in AI and its intersection with fintech.
+* Collaborate with companies to solve real-world challenges through data-driven insights.
 
 <p align="left">
   <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
