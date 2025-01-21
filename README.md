@@ -68,3 +68,11 @@ Little facts about me: (..)
 
 ## Stats 
 ![Adalet's GitHub stats](https://github-readme-stats.vercel.app/api?username=adaleet&show_icons=true&theme=transparent)
+![snake animation](https://github.com/adaleet/adaleet/blob/output/github-contribution-grid-snake2.svg)
+
+
+## Connect with me!
+
+- **LinkedIn**: [linkedin.com/in/adalet](#)
+
+
