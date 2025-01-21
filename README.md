@@ -12,6 +12,7 @@ Open to Opportunities: Actively seeking thesis project collaborations and summer
 * Expand my expertise in cloud computing, data analysis and software development.
 * Explore research opportunities in AI and its intersection with fintech.
 * Collaborate with companies to solve real-world challenges through data-driven insights.
+* Contributing to open-source projects.
 
 <p align="left">
   <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
