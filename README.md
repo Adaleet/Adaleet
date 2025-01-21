@@ -82,6 +82,6 @@ Open to Opportunities: Actively seeking thesis project collaborations and summer
 
 ## Connect with me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adalet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adalet-a-136a66199/)
 
 
