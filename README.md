@@ -51,3 +51,11 @@ Little facts about me: (..)
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="50">
 </div>
 <br><br>  
+
+## Statistics & Data analysis
+<div align="center">
+    <br>
+    <img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="500">
+    <br>
+    <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400">
+  </div>
