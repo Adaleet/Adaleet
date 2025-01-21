@@ -1,6 +1,6 @@
 # Adalet Adiljan
 
-**Computer Engineering student at KTH**
+**Passionate Computer Engineer!💻**
 ## Hi There! 👋
 I'm in my final year of my Bachelor's in Computer Engineering (Graduating 2025).
 I'm passionate about designing scalable software, exploring AI and machine learning, and building solutions that solve real-world problems.
