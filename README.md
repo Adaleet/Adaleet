@@ -69,10 +69,6 @@ Little facts about me: (..)
 ## Stats 
 ![Adalet's GitHub stats](https://github-readme-stats.vercel.app/api?username=adaleet&show_icons=true&theme=transparent)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.png">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./light.png">
-</picture>
 
 ## Connect with me!
 
