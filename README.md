@@ -18,7 +18,7 @@ Little facts about me: (..)
     <img alt="total stars" title="Total stars on Github" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
 </p>
-
+---
 <div style="background-color: black; color: white; padding: 20px; border-radius: 10px;">
   <div align="center">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="800">
