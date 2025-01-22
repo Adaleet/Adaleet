@@ -70,5 +70,7 @@ I'm passionate about designing scalable software, exploring AI and machine learn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adalet-a-136a66199/)
 [![Hotmail](https://img.shields.io/badge/Hotmail-%23EA4335.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:adalat-@hotmail.se)
+[![KTH Email](https://img.shields.io/badge/KTH%20Email-%23D32F2F.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:adalat@kth.se)
+
 
 
