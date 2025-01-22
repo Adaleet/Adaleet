@@ -1,4 +1,4 @@
-# Adalet Adiljan
+# Adalet Adiljan 💖✨
 
 **Passionate Computer Engineer!💻**
 ## Hi There! 👋
@@ -48,14 +48,14 @@ I'm passionate about designing scalable software, exploring AI and machine learn
 </div>
 <br><br>  
 
-## Statistics & Data analysis
+## Statistics & Data analysis Dashboard
 <div align="center">
     <br>
     <img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="500">
   <br><br>  
   </div>
 
-## Projects 
+## Animated Graph with Peaks 
 <div align="center">
     <br>
     <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400">
@@ -69,5 +69,6 @@ I'm passionate about designing scalable software, exploring AI and machine learn
 ## Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adalet-a-136a66199/)
+[![Hotmail](https://img.shields.io/badge/Hotmail-%23EA4335.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:adalat-@hotmail.se)
 
 
