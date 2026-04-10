@@ -2,12 +2,7 @@
 
 **Passionate Computer Engineer!💻**
 ## Hi There! 👋
-I'm in my final year of my Bachelor's in Computer Engineering (Graduating 2025).
-I'm passionate about designing scalable software, exploring AI and machine learning, and building solutions that solve real-world problems.
-
-## 📌 Quick Highlights
-* Open to Opportunities: Actively seeking thesis project collaborations and summer internships in software development, AI, or machine learning.
-* Open to Summer Internship opportunities.
+I'm passionate about designing scalable software, exploring AI and machine learning, and building solutions that solve real-world problems!
 
 ## 🎯 Current Focus 
 * Expand my expertise in cloud computing, data analysis and software development.
